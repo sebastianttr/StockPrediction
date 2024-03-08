@@ -4,20 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="fc79849c-7425-4f7a-82b8-883f651d0ff9" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/ThesisDemoProject.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bert_tokens.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/company_keyword_extractor.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/context_awarness.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cookies.pkl" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data_fetch_reuter.ipynb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/rapidapi_reuters_fetch.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/text_preprocessing.ipynb" afterDir="false" />
-    </list>
+    <list default="true" id="fc79849c-7425-4f7a-82b8-883f651d0ff9" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
