@@ -1,0 +1,458 @@
+[
+  {
+    "entity": "B-ORG",
+    "score": 0.99918216,
+    "index": 1,
+    "word": "Te",
+    "start": 1,
+    "end": 3
+  },
+  {
+    "entity": "I-ORG",
+    "score": 0.9982932,
+    "index": 2,
+    "word": "##sla",
+    "start": 3,
+    "end": 6
+  },
+  {
+    "entity": "I-ORG",
+    "score": 0.9993518,
+    "index": 3,
+    "word": ",",
+    "start": 6,
+    "end": 7
+  },
+  {
+    "entity": "I-ORG",
+    "score": 0.9991429,
+    "index": 4,
+    "word": "Inc",
+    "start": 8,
+    "end": 11
+  },
+  {
+    "entity": "B-MISC",
+    "score": 0.9993979,
+    "index": 8,
+    "word": "American",
+    "start": 19,
+    "end": 27
+  },
+  {
+    "entity": "B-LOC",
+    "score": 0.998059,
+    "index": 17,
+    "word": "Austin",
+    "start": 95,
+    "end": 101
+  },
+  {
+    "entity": "B-LOC",
+    "score": 0.99890125,
+    "index": 19,
+    "word": "Texas",
+    "start": 103,
+    "end": 108
+  },
+  {
+    "entity": "B-ORG",
+    "score": 0.9915835,
+    "index": 56,
+    "word": "Te",
+    "start": 302,
+    "end": 304
+  },
+  {
+    "entity": "I-ORG",
+    "score": 0.9704293,
+    "index": 57,
+    "word": "##sla",
+    "start": 304,
+    "end": 307
+  },
+  {
+    "entity": "B-PER",
+    "score": 0.99315923,
+    "index": 64,
+    "word": "Martin",
+    "start": 341,
+    "end": 347
+  },
+  {
+    "entity": "I-PER",
+    "score": 0.9830692,
+    "index": 65,
+    "word": "E",
+    "start": 348,
+    "end": 349
+  },
+  {
+    "entity": "I-PER",
+    "score": 0.9945023,
+    "index": 66,
+    "word": "##ber",
+    "start": 349,
+    "end": 352
+  },
+  {
+    "entity": "I-PER",
+    "score": 0.9868808,
+    "index": 67,
+    "word": "##hard",
+    "start": 352,
+    "end": 356
+  },
+  {
+    "entity": "B-PER",
+    "score": 0.999495,
+    "index": 69,
+    "word": "Marc",
+    "start": 361,
+    "end": 365
+  },
+  {
+    "entity": "I-PER",
+    "score": 0.9994437,
+    "index": 70,
+    "word": "Ta",
+    "start": 366,
+    "end": 368
+  },
+  {
+    "entity": "I-PER",
+    "score": 0.9946578,
+    "index": 71,
+    "word": "##rp",
+    "start": 368,
+    "end": 370
+  },
+  {
+    "entity": "B-ORG",
+    "score": 0.99848,
+    "index": 75,
+    "word": "Te",
+    "start": 380,
+    "end": 382
+  },
+  {
+    "entity": "I-ORG",
+    "score": 0.9916596,
+    "index": 76,
+    "word": "##sla",
+    "start": 382,
+    "end": 385
+  },
+  {
+    "entity": "I-ORG",
+    "score": 0.99838185,
+    "index": 77,
+    "word": "Motors",
+    "start": 386,
+    "end": 392
+  },
+  {
+    "entity": "B-PER",
+    "score": 0.99922967,
+    "index": 92,
+    "word": "Nikola",
+    "start": 462,
+    "end": 468
+  },
+  {
+    "entity": "I-PER",
+    "score": 0.99861443,
+    "index": 93,
+    "word": "Te",
+    "start": 469,
+    "end": 471
+  },
+  {
+    "entity": "I-PER",
+    "score": 0.9980862,
+    "index": 94,
+    "word": "##sla",
+    "start": 471,
+    "end": 474
+  },
+  {
+    "entity": "B-ORG",
+    "score": 0.5392049,
+    "index": 99,
+    "word": "El",
+    "start": 493,
+    "end": 495
+  },
+  {
+    "entity": "B-PER",
+    "score": 0.9500182,
+    "index": 100,
+    "word": "##on",
+    "start": 495,
+    "end": 497
+  },
+  {
+    "entity": "I-PER",
+    "score": 0.99051595,
+    "index": 101,
+    "word": "Mu",
+    "start": 498,
+    "end": 500
+  },
+  {
+    "entity": "I-PER",
+    "score": 0.7796936,
+    "index": 102,
+    "word": "##sk",
+    "start": 500,
+    "end": 502
+  },
+  {
+    "entity": "B-MISC",
+    "score": 0.97216266,
+    "index": 133,
+    "word": "Roads",
+    "start": 643,
+    "end": 648
+  },
+  {
+    "entity": "I-MISC",
+    "score": 0.9885592,
+    "index": 134,
+    "word": "##ter",
+    "start": 648,
+    "end": 651
+  },
+  {
+    "entity": "B-MISC",
+    "score": 0.9971455,
+    "index": 141,
+    "word": "Model",
+    "start": 680,
+    "end": 685
+  },
+  {
+    "entity": "I-MISC",
+    "score": 0.99795437,
+    "index": 142,
+    "word": "S",
+    "start": 686,
+    "end": 687
+  },
+  {
+    "entity": "B-MISC",
+    "score": 0.9970304,
+    "index": 148,
+    "word": "Model",
+    "start": 707,
+    "end": 712
+  },
+  {
+    "entity": "I-MISC",
+    "score": 0.9976628,
+    "index": 149,
+    "word": "X",
+    "start": 713,
+    "end": 714
+  },
+  {
+    "entity": "B-MISC",
+    "score": 0.99522734,
+    "index": 155,
+    "word": "Model",
+    "start": 732,
+    "end": 737
+  },
+  {
+    "entity": "I-MISC",
+    "score": 0.99717844,
+    "index": 156,
+    "word": "3",
+    "start": 738,
+    "end": 739
+  },
+  {
+    "entity": "B-MISC",
+    "score": 0.99057835,
+    "index": 162,
+    "word": "Model",
+    "start": 759,
+    "end": 764
+  },
+  {
+    "entity": "I-MISC",
+    "score": 0.9952981,
+    "index": 163,
+    "word": "Y",
+    "start": 765,
+    "end": 766
+  },
+  {
+    "entity": "B-MISC",
+    "score": 0.9712215,
+    "index": 169,
+    "word": "Te",
+    "start": 790,
+    "end": 792
+  },
+  {
+    "entity": "B-MISC",
+    "score": 0.89544564,
+    "index": 170,
+    "word": "##sla",
+    "start": 792,
+    "end": 795
+  },
+  {
+    "entity": "I-MISC",
+    "score": 0.9108971,
+    "index": 171,
+    "word": "Semi",
+    "start": 796,
+    "end": 800
+  },
+  {
+    "entity": "B-MISC",
+    "score": 0.63180125,
+    "index": 178,
+    "word": "Cy",
+    "start": 823,
+    "end": 825
+  },
+  {
+    "entity": "I-MISC",
+    "score": 0.64734375,
+    "index": 180,
+    "word": "##ru",
+    "start": 829,
+    "end": 831
+  },
+  {
+    "entity": "B-MISC",
+    "score": 0.9947189,
+    "index": 189,
+    "word": "Model",
+    "start": 860,
+    "end": 865
+  },
+  {
+    "entity": "I-MISC",
+    "score": 0.996951,
+    "index": 190,
+    "word": "3",
+    "start": 866,
+    "end": 867
+  },
+  {
+    "entity": "B-MISC",
+    "score": 0.9960692,
+    "index": 228,
+    "word": "Model",
+    "start": 1022,
+    "end": 1027
+  },
+  {
+    "entity": "I-MISC",
+    "score": 0.9968399,
+    "index": 229,
+    "word": "Y",
+    "start": 1028,
+    "end": 1029
+  },
+  {
+    "entity": "B-ORG",
+    "score": 0.99363315,
+    "index": 243,
+    "word": "Te",
+    "start": 1082,
+    "end": 1084
+  },
+  {
+    "entity": "I-ORG",
+    "score": 0.9865327,
+    "index": 244,
+    "word": "##sla",
+    "start": 1084,
+    "end": 1087
+  },
+  {
+    "entity": "B-ORG",
+    "score": 0.9968623,
+    "index": 261,
+    "word": "Te",
+    "start": 1152,
+    "end": 1154
+  },
+  {
+    "entity": "I-ORG",
+    "score": 0.9934043,
+    "index": 262,
+    "word": "##sla",
+    "start": 1154,
+    "end": 1157
+  },
+  {
+    "entity": "B-LOC",
+    "score": 0.9993875,
+    "index": 281,
+    "word": "U",
+    "start": 1245,
+    "end": 1246
+  },
+  {
+    "entity": "I-LOC",
+    "score": 0.98999035,
+    "index": 282,
+    "word": ".",
+    "start": 1246,
+    "end": 1247
+  },
+  {
+    "entity": "I-LOC",
+    "score": 0.99865353,
+    "index": 283,
+    "word": "S",
+    "start": 1247,
+    "end": 1248
+  },
+  {
+    "entity": "I-LOC",
+    "score": 0.9499313,
+    "index": 284,
+    "word": ".",
+    "start": 1248,
+    "end": 1249
+  },
+  {
+    "entity": "B-ORG",
+    "score": 0.995249,
+    "index": 321,
+    "word": "Te",
+    "start": 1392,
+    "end": 1394
+  },
+  {
+    "entity": "I-ORG",
+    "score": 0.99128133,
+    "index": 322,
+    "word": "##sla",
+    "start": 1394,
+    "end": 1397
+  },
+  {
+    "entity": "B-PER",
+    "score": 0.9604114,
+    "index": 357,
+    "word": "Mu",
+    "start": 1584,
+    "end": 1586
+  },
+  {
+    "entity": "I-PER",
+    "score": 0.5087719,
+    "index": 358,
+    "word": "##sk",
+    "start": 1586,
+    "end": 1588
+  }
+]

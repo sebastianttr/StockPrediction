@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/../../../../SEM4/AICV/.idea/AICV.iml" filepath="$PROJECT_DIR$/../../../../SEM4/AICV/.idea/AICV.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/ThesisDemoProject.iml" filepath="$PROJECT_DIR$/.idea/ThesisDemoProject.iml" />
+    </modules>
+  </component>
+</project>
