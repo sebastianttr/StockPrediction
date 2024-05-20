@@ -1,7 +1,6 @@
 from bs4 import BeautifulSoup
 from lxml import etree
 from io import StringIO, BytesIO
-
 import requests
 
 url = "https://www.reuters.com/legal/government/tesla-appeal-over-musk-tweet-unions-tests-nlrb-authority-over-social-media-2024-01-25/"
