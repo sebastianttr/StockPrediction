@@ -4,9 +4,13 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="fc79849c-7425-4f7a-82b8-883f651d0ff9" name="Changes" comment="Added Sentiment Analysis and Calculated a Relevancy Score">
+    <list default="true" id="fc79849c-7425-4f7a-82b8-883f651d0ff9" name="Changes" comment="Added RNN notebook for analysis">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/rnn_modeling.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/rnn_modeling.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bert_tokens.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/company_keyword_extractor.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/context_awarness.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data_fetch_reuter.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/data_fetch_reuter.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/rapidapi_reuters_fetch.py" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -73,6 +77,9 @@
     <key name="CopyFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/finbert/finBERT" />
     </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
+    </key>
   </component>
   <component name="RunManager" selected="Python.main (1)">
     <configuration name="main (1)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
@@ -120,7 +127,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="rapidapi_reuters_fetch" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
+    <configuration name="reuters_fetch" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
       <module name="ThesisDemoProject" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -134,7 +141,7 @@
       <option name="IS_MODULE_SDK" value="false" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/rapidapi_reuters_fetch.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/reuters_fetch.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -183,6 +190,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Added Sentiment Analysis and Calculated a Relevancy Score" />
-    <option name="LAST_COMMIT_MESSAGE" value="Added Sentiment Analysis and Calculated a Relevancy Score" />
+    <MESSAGE value="Added RNN notebook for analysis" />
+    <option name="LAST_COMMIT_MESSAGE" value="Added RNN notebook for analysis" />
   </component>
 </project>
