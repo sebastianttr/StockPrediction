@@ -4,19 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="fc79849c-7425-4f7a-82b8-883f651d0ff9" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/finbert/config.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+    <list default="true" id="fc79849c-7425-4f7a-82b8-883f651d0ff9" name="Changes" comment="Added Sentiment Analysis and Calculated a Relevancy Score">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data_fetch_reuter.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/data_fetch_reuter.ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/finbert/finBERT/config.json" beforeDir="false" afterPath="$PROJECT_DIR$/finbert/finBERT/config.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/finbert/finBERT/environment.yml" beforeDir="false" afterPath="$PROJECT_DIR$/finbert/finBERT/environment.yml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/finbert/finBERT/finbert/finbert.py" beforeDir="false" afterPath="$PROJECT_DIR$/finbert/finBERT/finbert/finbert.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/finbert/finBERT/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/finbert/finBERT/main.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/finbert/finBERT/notebooks/finbert_training.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/finbert/finBERT/notebooks/finbert_training.ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/rapidapi_reuters_fetch.py" beforeDir="false" afterPath="$PROJECT_DIR$/rapidapi_reuters_fetch.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/text_preprocessing.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/text_preprocessing.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/rnn_modeling.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/rnn_modeling.ipynb" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -26,13 +16,27 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="Jupyter Notebook" />
         <option value="Python Script" />
+        <option value="Jupyter Notebook" />
       </list>
     </option>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
+  "lastFilter": {
+    "state": "OPEN",
+    "assignee": "sebastianttr"
+  }
+}]]></component>
+  <component name="GithubPullRequestsUISettings">
+    <option name="selectedUrlAndAccountId">
+      <UrlAndAccount>
+        <option name="accountId" value="53bd8c95-e0da-4ef0-98ad-e2a2b9138ebd" />
+        <option name="url" value="git@github.com:sebastianttr/StockPrediction.git" />
+      </UrlAndAccount>
+    </option>
   </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
@@ -176,5 +180,9 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Added Sentiment Analysis and Calculated a Relevancy Score" />
+    <option name="LAST_COMMIT_MESSAGE" value="Added Sentiment Analysis and Calculated a Relevancy Score" />
   </component>
 </project>
