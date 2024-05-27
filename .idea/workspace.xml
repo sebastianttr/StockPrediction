@@ -4,9 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="fc79849c-7425-4f7a-82b8-883f651d0ff9" name="Changes" comment="Made first request to FinancialTimes for data collection">
-      <change afterPath="$PROJECT_DIR$/NewsMetaRepository.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+    <list default="true" id="fc79849c-7425-4f7a-82b8-883f651d0ff9" name="Changes" comment="Implemented duckdb for storing data and finished fetching all meta for a company">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -189,6 +187,7 @@
     <MESSAGE value="Added Sentiment Analysis and Calculated a Relevancy Score" />
     <MESSAGE value="Added RNN notebook for analysis" />
     <MESSAGE value="Made first request to FinancialTimes for data collection" />
-    <option name="LAST_COMMIT_MESSAGE" value="Made first request to FinancialTimes for data collection" />
+    <MESSAGE value="Implemented duckdb for storing data and finished fetching all meta for a company" />
+    <option name="LAST_COMMIT_MESSAGE" value="Implemented duckdb for storing data and finished fetching all meta for a company" />
   </component>
 </project>
