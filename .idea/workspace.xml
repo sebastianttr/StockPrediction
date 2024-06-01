@@ -4,8 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="fc79849c-7425-4f7a-82b8-883f651d0ff9" name="Changes" comment="Implemented duckdb for storing data and finished fetching all meta for a company">
+    <list default="true" id="fc79849c-7425-4f7a-82b8-883f651d0ff9" name="Changes" comment="Download of articles sequentially (with some issues)">
+      <change afterPath="$PROJECT_DIR$/request_test.ipynb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data_fetch_financial_times.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/data_fetch_financial_times.ipynb" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -15,8 +17,8 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="Jupyter Notebook" />
         <option value="Python Script" />
+        <option value="Jupyter Notebook" />
       </list>
     </option>
   </component>
@@ -188,6 +190,7 @@
     <MESSAGE value="Added RNN notebook for analysis" />
     <MESSAGE value="Made first request to FinancialTimes for data collection" />
     <MESSAGE value="Implemented duckdb for storing data and finished fetching all meta for a company" />
-    <option name="LAST_COMMIT_MESSAGE" value="Implemented duckdb for storing data and finished fetching all meta for a company" />
+    <MESSAGE value="Download of articles sequentially (with some issues)" />
+    <option name="LAST_COMMIT_MESSAGE" value="Download of articles sequentially (with some issues)" />
   </component>
 </project>
