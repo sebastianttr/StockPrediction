@@ -4,11 +4,12 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="fc79849c-7425-4f7a-82b8-883f651d0ff9" name="Changes" comment="Improved article downloader to load articles faster in parallel">
-      <change afterPath="$PROJECT_DIR$/data_fetch_yahoo.ipynb" afterDir="false" />
+    <list default="true" id="fc79849c-7425-4f7a-82b8-883f651d0ff9" name="Changes" comment="Update gitignore">
       <change afterPath="$PROJECT_DIR$/rnd.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data_fetch_financial_times.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/data_fetch_financial_times.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data_fetch_bbc.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/data_fetch_bbc.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data_fetch_reuter.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/data_fetch_reuter.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/text_preprocessing.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/text_preprocessing.ipynb" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -52,26 +53,26 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "ASKED_ADD_EXTERNAL_FILES": "true",
-    "Python.main (1).executor": "Run",
-    "Python.main.executor": "Run",
-    "Python.rnd.executor": "Run",
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "git-widget-placeholder": "main",
-    "last_opened_file_path": "/Users/sebastiantatar/Documents/FH/SEM5/BT/demo/ThesisDemoProject/finbert/finBERT",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "nodejs_package_manager_path": "npm",
-    "settings.editor.selected.configurable": "preferences.editor",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;ASKED_ADD_EXTERNAL_FILES&quot;: &quot;true&quot;,
+    &quot;Python.main (1).executor&quot;: &quot;Run&quot;,
+    &quot;Python.main.executor&quot;: &quot;Run&quot;,
+    &quot;Python.rnd.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;last_opened_file_path&quot;: &quot;/Users/sebastiantatar/Documents/FH/SEM5/BT/demo/ThesisDemoProject/finbert/finBERT&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.editor&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/finbert/finBERT" />
@@ -218,6 +219,11 @@
     <MESSAGE value="Download of articles sequentially (with some issues)" />
     <MESSAGE value="Fixed Issues with articles not fetching with authenticaed user (cookie)" />
     <MESSAGE value="Improved article downloader to load articles faster in parallel" />
-    <option name="LAST_COMMIT_MESSAGE" value="Improved article downloader to load articles faster in parallel" />
+    <MESSAGE value="Fetch data from yahoo financial" />
+    <MESSAGE value="Fetch data from yahoo -&gt; failed attempt, not enough data" />
+    <MESSAGE value="Fetch data from BBC" />
+    <MESSAGE value="Fixed some issues with fetching for both BBC and Financial Times" />
+    <MESSAGE value="Update gitignore" />
+    <option name="LAST_COMMIT_MESSAGE" value="Update gitignore" />
   </component>
 </project>
